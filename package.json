@@ -1,0 +1,18 @@
+{
+  "name": "text_classifier",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Intro to Machine Learning (ML Zero to Hero) conversion to tfjs",
+  "main": "sarc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.8.0",
+    "@tensorflow/tfjs-node": "^4.8.0",
+    "array-sequence-utils": "^0.0.4",
+    "text-tokenizer-utils": "^0.0.1"
+  }
+}
