@@ -1,7 +1,7 @@
 # text_classifier
 Natural Language Processing - Tokenization (NLP Zero to Hero) conversion to tfjs
 
-Related to ML Zero to Hero - Part 1, Part 2 and Part 3 by Laurence. [Youtube link](https://youtu.be/fNxaJsNG3-s)
+Related to Tokenization (NLP Zero to Hero) - Part 1, Part 2 and Part 3 by Laurence. [Youtube link](https://youtu.be/fNxaJsNG3-s)
 
 The code consists of 87 lines, including annotations that clarify the process flow. These annotations greatly enhance the code's readability, especially for beginners in machine learning.
 
